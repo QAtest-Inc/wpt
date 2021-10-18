@@ -6,7 +6,7 @@
     "lint": "eslint -c .eslintrc.js ../*.html ../*.js"
   },
   "devDependencies": {
-    "eslint": "^7.24.0",
+    "eslint": "^8.0.1",
     "eslint-plugin-html": "^6.2.0",
     "jscodeshift": "^0.13.0",
     "jsdom": "^18.0.0"
