@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "eslint": "^8.1.0",
-    "eslint-plugin-html": "^6.2.0",
+    "eslint-plugin-html": "^7.0.0",
     "jscodeshift": "^0.13.0",
     "jsdom": "^18.0.0"
   },
